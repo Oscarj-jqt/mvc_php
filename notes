@@ -1,0 +1,6 @@
+Modèle vue controller
+Manière de ranger son code
+Le modèle est la gestion de la donnée
+La vue l'affichage de la donnée
+Controller la gestion de la logique
+Le c appelle le m puis génère le V renvoie la réponse
